@@ -1,2 +1,2 @@
 # Data-Science-LetsUpgrade
-Assignment no 2
+Challenge no 2
